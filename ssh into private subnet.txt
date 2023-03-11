@@ -21,4 +21,5 @@ Command 3:
 ssh ec2-user@<the-private-ipv4-ip-of-the-instance-in-the-private-subnet>
 
 Example:
-ssh ec2-user@18.232.135.220
+ssh ec2-user@18.232.135.220 
+
